@@ -95,9 +95,14 @@ MetricValueTotal workstations imaged116Stations run in parallel3+Data loss incid
 
 **Author**
 
-Dawood
+Molefi Mothibi
+
 IT Technician · Cloud & Infrastructure Portfolio
 Building hands-on AWS and on-premises IT solutions.
+
+UpWork: [Molefi Mothibi](https://www.upwork.com/freelancers/~01d13f73fb5989d0b9?mp_source=share)
+
+LinkedIn: [Molefi Mothibi](https://www.linkedin.com/in/m-mothibi/)
 
 **License**
 
