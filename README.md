@@ -6,9 +6,11 @@ Planned and executed a full-scale disk imaging and restore operation across a 11
 
 **Project Screenshots**
 
-<img width="3200" height="1800" alt="dawood_lab_116_computers" src="https://github.com/user-attachments/assets/47161857-a88b-4332-a82c-516dae74c3eb" />
-<img width="3200" height="2400" alt="rescuezilla_stations_restore" src="https://github.com/user-attachments/assets/72e4cfb3-12af-4c9b-9ec5-2383e601110a" />
-<img width="3200" height="2400" alt="rescuezilla_partition_select" src="https://github.com/user-attachments/assets/2e7d44d1-5eea-4133-9134-f7ab70dcdcbd" />
+<img width="1365" height="768" alt="Gemini_Generated_Image_22rppi22rppi22rp" src="https://github.com/user-attachments/assets/ecfe9250-6400-4b7b-98c7-7fe0aa40cf1c" />
+
+<img width="1365" height="768" alt="Gemini_Generated_Image_fcvr0tfcvr0tfcvr" src="https://github.com/user-attachments/assets/ec5330d0-a0d1-441c-a89a-54bc82b65f15" />
+
+
 
 **Project Overview**
 
@@ -40,6 +42,10 @@ Rescuezilla detected the following partition layout across connected drives:
 
 #8   911MB   Drive 20, Partition 4: 911MB ntfs
 
+<img width="1365" height="768" alt="Gemini_Generated_Image_6v3b1h6v3b1h6v3b" src="https://github.com/user-attachments/assets/d650b5dc-4228-41f7-b0bd-9488180c4e8b" />
+
+<img width="1365" height="768" alt="Gemini_Generated_Image_22rppi22rppi22rp" src="https://github.com/user-attachments/assets/018b7a6e-c1dc-45ef-8237-415edb024872" />
+
 
 **3. Parallel Deployment**
 
@@ -69,14 +75,22 @@ Parallel Deployment — 3+ simultaneous restores to maximise efficiency
 
 **Results**
 
+<img width="1195" height="896" alt="Gemini_Generated_Image_fz613xfz613xfz61" src="https://github.com/user-attachments/assets/50a0089a-7ee4-4875-a31d-8af651f5df31" />
+
+<img width="1195" height="896" alt="Gemini_Generated_Image_fz613xfz613xfz61 (1)" src="https://github.com/user-attachments/assets/f4087556-3e43-4772-bf48-8bfcd852cf41" />
+
 MetricValueTotal workstations imaged116Stations run in parallel3+Data loss incidents0Estimated time saved vs. manual install~40+ hoursFinal stateAll machines uniform, booted, production-ready
 
 **Repository Structure**
 
 ├── images/
+
 │   ├── dawood_lab_116_computers.jpg
+
 │   ├── rescuezilla_stations_restore.jpg
+
 │   └── rescuezilla_partition_select.jpg
+
 └── README.md
 
 **Author**
